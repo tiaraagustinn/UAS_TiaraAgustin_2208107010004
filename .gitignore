@@ -1,3 +1,4 @@
 env/
 backend/test.py
 backend/test2.py
+.env
